@@ -1,0 +1,57 @@
+{
+    "jobinterview": {
+        "position": [
+            {
+                "name": {
+                    "_text": "Analyst"
+                },
+                "applicants": {
+                    "applicant": [
+                        {
+                            "name": {
+                                "_text": "Huan-Carlo Valdez"
+                            },
+                            "age": {
+                                "_text": "32"
+                            }
+                        },
+                        {
+                            "name": {
+                                "_text": "Susan McMahoun"
+                            },
+                            "age": {
+                                "_text": "35"
+                            },
+                            "title": {
+                                "_text": "Dr"
+                            }
+                        },
+                        {
+                            "name": {
+                                "_text": "Rick Grimes"
+                            },
+                            "age": {
+                                "_text": "42"
+                            }
+                        }
+                    ]
+                },
+                "open": {
+                    "_text": "TRUE"
+                }
+            },
+            {
+                "name": {
+                    "_text": "Senior Analyst"
+                },
+                "applicants": {},
+                "closingdate": {
+                    "_text": "2020-12-12T09:30:11Z"
+                },
+                "open": {
+                    "_text": "False"
+                }
+            }
+        ]
+    }
+}

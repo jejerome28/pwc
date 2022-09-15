@@ -1,0 +1,7 @@
+
+
+Parallel programming refers to instructing the software to run the task into smaller segments and run it simultaneously while Asynchronous programming instructs the software to run without waiting for the task to finish and still be responsive to other tasks lastly, Serial programming instructs the software to run the task as a whole unlike the other programming mentiod above.
+
+Parallel programming problems - High amount of threads and Load Balancing.
+Asynchronous programming problems - Results may come in different order and callback hell.
+Serial programming problems - Data loss and waiting time.

@@ -1,0 +1,28 @@
+<jobinterview>
+    <position>
+        <name>Analyst</name>
+        <applicants>
+            <applicant>
+                <name>Huan-Carlo Valdez</name>
+                <age>32</age>
+            </applicant>
+            <applicant>
+                <name>Susan McMahoun</name>
+                <age>35</age>
+                <title>Dr</title>
+            </applicant>
+            <applicant>
+                <name>Rick Grimes</name>
+                <age>42</age>
+            </applicant>
+        </applicants>
+        <open>TRUE</open>
+    </position>
+    <position>
+        <name>Senior Analyst</name>
+        <applicants>
+        </applicants>
+        <closingdate>2020-12-12T09:30:11Z</closingdate>
+        <open>False</open>
+    </position>
+</jobinterview>
